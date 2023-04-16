@@ -53,7 +53,7 @@
 <br>
 <div align=center>
   <a href="#" title="dovanduong">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoVanDuong3009&hide_progress=true)](https://github.com/DoVanDuong3009/github-readme-stats" />
   </a>
   
 </div>
@@ -83,14 +83,14 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB).</p>
-<p>Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình làm lập trình viên trong tương lai nhé.</p>
+<p>Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình làm lập trình viên trong tương lai nhé.</p> -->
 
 
-<br>
+<!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+<br> -->
 
 
